@@ -36,10 +36,10 @@ python app.py
 
 Upon launching the loan qualifier application you will be greeted with the following prompts and ask you to save the qualifying loans base on your end.
 
-![Loan Qualifier Prompts](Images/case_1.png)
+![case_1](https://user-images.githubusercontent.com/94591580/145755724-c0bf4644-0406-465b-b377-fa26d9ba8be4.png)
 
 If you are not qualified for any loan, the application will notify the user and exit.
-![Loan Qualifier Prompts](Images/case_2.png)
+![case_2](https://user-images.githubusercontent.com/94591580/145755651-2c6b20a3-1999-43ec-9f0e-e0a76a11ba12.png)
 
 
 ---
