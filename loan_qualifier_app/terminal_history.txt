@@ -1,0 +1,50 @@
+   11  clip < ~/.ssh/id_rsa.pub
+   12  clip < ~/.ssh/id_rsa.pub
+   13  ssh-add ~/.ssh/id_rsa
+   14  conda --version
+   15  conda --version
+   16  conda --version
+   17  conda --version
+   18  cd Dekstop
+   19  conda activate dev
+   20  jupyter lab
+   21  ls -al ~/.ssh
+   22  clip < ~/.ssh/id_rsa.pub
+   23  ssh-keygen –t rsa –b 4096 –C "daosynguyen21@gmail.com"
+   24  ls -al ~/.ssh
+   25  ssh-keygen –t rsa –b 4096 –C "daosynguyen21@gmail.com"
+   26  clip < ~/.ssh/id_ed25519.pub
+   27  ls -al ~/.ssh
+   28  clip < ~/.ssh/id_ed25519.pub
+   29  ls -al ~/.ssh
+   30  clip < ~/.ssh/id_rsa.pub
+   31  pwd
+   32  ls
+   33  cd desktop
+   34  pwd
+   35  ls
+   36  mkdir FinTech-Workspace
+   37  cd FinTech-Workspace
+   38  ls
+   39  cd ..
+   40  cd ~
+   41  cd FinTech-Workspace/
+   42  ls
+   43  cd Python_Project/
+   44  ls
+   45  conda ativate dev
+   46  conda activate dev
+   47  conda activate dev
+   48  conda activate
+   49  conda activate dev
+   50  conda activate dev
+   51  pwd
+   52  ls
+   53  cd desktop
+   54  pwd
+   55  ls
+   56  mkdir FinTech-Workspace
+   57  ls
+   58  python app.py
+   59  history 50 > terminal_history.txt
+   60  history 50 > terminal_history.txt
